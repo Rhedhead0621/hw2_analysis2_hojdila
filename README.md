@@ -5,6 +5,9 @@ This is where you can write notes in markdown if you'd like.
 
 # Data sources
 
+data/logs/ = original csv log files
+
+data/log_copies/ = copies of originals for manipulation
 
 # Data prep
 
