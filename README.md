@@ -9,13 +9,16 @@ data/logs/ = original csv log files
 
 data/log_copies/ = copies of originals for manipulation
 
+data/log_copies/BCM_v1.xlsx = combined all the individual csv into one worksheet, with headers
+
+data/log_copies/BCM_sorted.xlsx = sorted each sheet in the worksheet
+
+data/log_copies/BCM.xlsx = final version, with headers and formulas
+
+
+
 # Data prep
 
-
-# Modeling and analysis
-
-
-# Worklow
 
 
 # Deliverables
